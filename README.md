@@ -6,7 +6,6 @@ weather information, and budget calculations.
 
 # Features
 - Generates travel plans like:
-<br>
   - Destinations
   - Travel dates
   - Start and end dates
